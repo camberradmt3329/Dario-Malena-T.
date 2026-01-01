@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Calculadora de Regulación de Frecuencia",
+  "description": "Herramienta industrial para el cálculo de regulación primaria y secundaria de frecuencia para cinco unidades generadoras, con capacidad de procesamiento de imágenes vía Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
